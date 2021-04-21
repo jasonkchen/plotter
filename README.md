@@ -1,0 +1,2 @@
+# plotter
+This is a simple Python GUI for plotting data, and allows for plotting on a secondary Y axis. "Data File" is an Excel file that can be read by the pandas Python library - an example is provided in the file "Example Data.xlsx". Select "Load Data" to load the data columns onto the GUI, then select checkboxes for variables that will be plotted as the x values, and primary or secondary y-axis values. Optional labels for the plot title, x-axis, primary y-axis, and secondary y-axis can be added if necessary.
